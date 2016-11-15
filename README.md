@@ -3,6 +3,8 @@ This software lets you to measure de difference between two videos. It's invaria
 
 ### Compilation
 ```sh
-$ cmake .
+$ mkdir build
+$ cd build
+$ cmake ..
 $ make
 ```
